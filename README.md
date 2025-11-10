@@ -1,4 +1,4 @@
-# practice-graphs
+# practice-dp
 
 A Java project for practicing dp algorithms and data structures. This repository contains implementations for dp algos organized for learning and experimentation.
 
