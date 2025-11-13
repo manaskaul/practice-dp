@@ -103,6 +103,9 @@ public class Knapsack {
     }
 
     /*
+        int[] wgt = new int[]{0, 1, 3, 4, 5};
+        int[] val = new int[]{0, 1, 4, 5, 7};
+        int C = 7;
         // THIS WOULD ONLY WORK IF 0th element is wgt and val is considered as dummy or 0
         // this does not work with natural ordering of the 0-based arrays
         for (i = 1 -> N) {
