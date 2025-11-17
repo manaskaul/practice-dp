@@ -1,5 +1,15 @@
 // package topic1_01_knapsack;
 
+/*
+ * This is the Basic Pattern
+ * Sub Problems:
+ *  1. Subset Sum
+ *  2. Equal Sum Partition
+ *  3. Count of Subset Sum with given Sum
+ *  4.
+ *  5.
+ *  6.
+ */
 public class Knapsack {
     public static void main(String[] args) {
         int[] wgt = new int[]{1, 3, 4, 5}; // Weight Array
