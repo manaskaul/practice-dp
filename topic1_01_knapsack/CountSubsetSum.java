@@ -35,7 +35,6 @@ public class CountSubsetSum {
             }
         }
 
-
         return dp[n][sum];
     }
 }
