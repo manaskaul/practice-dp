@@ -6,7 +6,7 @@
  *  1. Subset Sum
  *  2. Equal Sum Partition
  *  3. Count of Subset Sum with given Sum
- *  4.
+ *  4. Minimum Sum Subset Difference
  *  5.
  *  6.
  */
