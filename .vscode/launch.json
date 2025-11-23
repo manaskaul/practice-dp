@@ -1,4 +1,12 @@
 {
     "version": "0.2.0",
-    "configurations": []
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Knapsack",
+            "request": "launch",
+            "mainClass": "topic2_unbounded_knapsack.Knapsack",
+            "projectName": "practice-dp_924e4f8a"
+        }
+    ]
 }
