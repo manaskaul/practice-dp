@@ -6,7 +6,7 @@
  * 1. Rod Cut Problem
  * 2. Coin Change I : Count number of way to select coins and for sum
  * 3. Coin Change II : Min no of coins that can be selected to get sum
- * 4. Minimum Ribbon Cut ?
+ * 4. Minimum Ribbon Cut
  */
 public class Knapsack {
     public static void main(String[] args) {
