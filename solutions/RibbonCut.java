@@ -64,7 +64,7 @@ a or b or c
     dp[i][j] : max cuts that can be made to achieve sum j with choice[1 to i]
 
         0  1  2  3  4 ... 16
-    0   0 -1 -1 -1 -1 ... -1
+    0   0 -I -I -I -I ... -I
     1   0
     2   0
     3   0
