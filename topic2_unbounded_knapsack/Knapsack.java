@@ -1,5 +1,13 @@
 // package topic2_unbounded_knapsack;
 
+/*
+ * Unbounded Knapsack : Unlinke the 0-1 Knapsack, an item can be  choice of items can be picked multiple times
+ * Sub Problems :
+ * 1. Rod Cut Problem
+ * 2. Coin Change I : Count number of way to select coins and for sum
+ * 3. Coin Change II : Min no of coins that can be selected to get sum
+ * 4. Minimum Ribbon Cut ?
+ */
 public class Knapsack {
     public static void main(String[] args) {
         // Generic Tabulation Solution
