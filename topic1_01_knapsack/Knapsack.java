@@ -7,8 +7,8 @@
  *  2. Equal Sum Partition
  *  3. Count of Subset Sum with given Sum
  *  4. Minimum Sum Subset Difference
- *  5.
- *  6.
+ *  5. Count no of Subset Sum with given Difference
+ *  6. Target Sum
  */
 public class Knapsack {
     public static void main(String[] args) {
