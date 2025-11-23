@@ -10,7 +10,7 @@
 
         Help Polycarpus and find the number of ribbon pieces after the required cutting.
 
-    Constraints-
+    Constraints:
         1 <= n, a, b, c <= 4000 
         The numbers a, b and c can coincide.
  */
