@@ -1,8 +1,8 @@
 // package topic3_longest_common_subsequence;
 
 /**
- * 01. Longest Common Substring
- * 02. Print Longest Common Subsequence
+ * 01. Longest Common Substring : LengthOfLongestCommonSubstring
+ * 02. Print Longest Common Subsequence : PrintLongestCommonSubsequence
  * 03. Shortest Common Supersequence
  * 04. Print Shortest Common Supersequence
  * 05. Min no of insertions/deletions a -> b
