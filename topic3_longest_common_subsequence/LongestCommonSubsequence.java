@@ -3,8 +3,8 @@
 /**
  * 01. Longest Common Substring : LengthOfLongestCommonSubstring
  * 02. Print Longest Common Subsequence : PrintLongestCommonSubsequence
- * 03. Shortest Common Supersequence
- * 04. Print Shortest Common Supersequence
+ * 03. Shortest Common Supersequence : ShortestCommonSupersequence
+ * 04. Print Shortest Common Supersequence : PrintShortestCommonSupersequence
  * 05. Min no of insertions/deletions a -> b
  * 06. Longest Repeating Subsequence
  * 07. Length of Longest Subsequence of a which is a substring in b
