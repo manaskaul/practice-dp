@@ -1,20 +1,27 @@
 // package topic3_longest_common_subsequence;
 
 /**
- * 01. Longest Common Substring : LengthOfLongestCommonSubstring
- * 02. Print Longest Common Subsequence : PrintLongestCommonSubsequence
- * 03. Shortest Common Supersequence : ShortestCommonSupersequence
- * 04. Print Shortest Common Supersequence : PrintShortestCommonSupersequence
- * 05. Min no of insertions/deletions a -> b : MinInsertionsDeletions
- * 06. Longest Repeating Subsequence : LongestRepeatingSubsequence
- * 07. Length of Longest Subsequence of a which is a substring in b
- * 08. Subsequence Pattern Matching
- * 09. Count how many times a appears as subsequence in b
- * 10. Longest Palindromic Subsequence : LongestPalindromicSubsequence
- * 11. Longest Palindromic Substring
- * 12. Count of Palindromic Substring
- * 13. Minimum no of deletions in a string to make it palindrome
- * 14. Minimum no of insertions in a string to make it palindrome
+ * 00. Longest Common Subsequence ------------------------------------- LongestCommonSubsequence
+ * 01. Print Longest Common Subsequence ------------------------------- PrintLongestCommonSubsequence
+ * 02. Longest Common Substring --------------------------------------- LengthOfLongestCommonSubstring
+ * 
+ * 03. Shortest Common Supersequence ---------------------------------- ShortestCommonSupersequence
+ * 04. Print Shortest Common Supersequence ---------------------------- PrintShortestCommonSupersequence
+ * 
+ * 05. Min no of insertions/deletions a -> b -------------------------- MinInsertionsDeletions
+ * 
+ * 06. Longest Palindromic Subsequence -------------------------------- LongestPalindromicSubsequence
+ * 07. Minimum no of deletions in a string to make it palindrome ------ MinDeletionsToMakePalindrome
+ * 08. Minimum no of insertions in a string to make it palindrome -----
+ * 09. Longest Palindromic Substring ----------------------------------
+ * 10. Count of Palindromic Substring ---------------------------------
+ * 
+ * 11. Longest Repeating Subsequence ---------------------------------- LongestRepeatingSubsequence
+ * 
+ * 12. Subsequence Pattern Matching ----------------------------------- SequencePatternMatching
+ * 
+ * 13. Length of Longest Subsequence of a which is a substring in b ---
+ * 14. Count how many times a appears as subsequence in b -------------
  */
 public class LongestCommonSubsequence {
     public static void main(String[] args) {
