@@ -12,7 +12,7 @@
  * 
  * 06. Longest Palindromic Subsequence -------------------------------- LongestPalindromicSubsequence
  * 07. Minimum no of deletions in a string to make it palindrome ------ MinDeletionsToMakePalindrome
- * 08. Minimum no of insertions in a string to make it palindrome -----
+ * 08. Minimum no of insertions in a string to make it palindrome ----- MinInsertionsToMakePalindrome
  * 09. Longest Palindromic Substring ----------------------------------
  * 10. Count of Palindromic Substring ---------------------------------
  * 
