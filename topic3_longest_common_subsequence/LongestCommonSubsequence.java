@@ -5,7 +5,7 @@
  * 02. Print Longest Common Subsequence : PrintLongestCommonSubsequence
  * 03. Shortest Common Supersequence : ShortestCommonSupersequence
  * 04. Print Shortest Common Supersequence : PrintShortestCommonSupersequence
- * 05. Min no of insertions/deletions a -> b
+ * 05. Min no of insertions/deletions a -> b : MinInsertionsDeletions
  * 06. Longest Repeating Subsequence
  * 07. Length of Longest Subsequence of a which is a substring in b
  * 08. Subsequence Pattern Matching
