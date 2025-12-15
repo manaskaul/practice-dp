@@ -2,8 +2,11 @@
 
 public class PrintLongestCommonSubsequence {
     public static void main(String[] args) {
-        String x = "acbcf";
-        String y = "abcdaf";
+        // String x = "acbcf";
+        // String y = "abcdaf";
+
+        String x = "agbcba";
+        String y = "abcbga";
 
         int n = x.length();
         int m = y.length();

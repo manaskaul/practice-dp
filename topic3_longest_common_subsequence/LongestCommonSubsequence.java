@@ -10,7 +10,7 @@
  * 07. Length of Longest Subsequence of a which is a substring in b
  * 08. Subsequence Pattern Matching
  * 09. Count how many times a appears as subsequence in b
- * 10. Longest Palindromic Subsequence
+ * 10. Longest Palindromic Subsequence : LongestPalindromicSubsequence
  * 11. Longest Palindromic Substring
  * 12. Count of Palindromic Substring
  * 13. Minimum no of deletions in a string to make it palindrome
