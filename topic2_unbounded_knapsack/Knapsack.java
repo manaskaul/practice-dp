@@ -1,7 +1,7 @@
 // package topic2_unbounded_knapsack;
 
 /*
- * Unbounded Knapsack : Unlinke the 0-1 Knapsack, an item can be  choice of items can be picked multiple times
+ * Unbounded Knapsack : Unlinke the 0-1 Knapsack, an item can be chosen/picked multiple times
  * Sub Problems :
  * 1. Rod Cut Problem
  * 2. Coin Change I : Count number of way to select coins and for sum

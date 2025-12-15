@@ -20,7 +20,7 @@ public class CountSubsetSum {
         for(int j=0; j<sum+1; j++) {
             dp[0][j] = 0;
         }
-        // there will always be a null set that with sum 0
+        // there will always be a null set that will sum 0
         for(int i=0; i<n+1; i++) {
             dp[i][0] = 1;
         }

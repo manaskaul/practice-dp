@@ -63,7 +63,7 @@ public class EqualPartitionSum {
     }
 
     /*
-     * The bottom appraoch uses the subset sum calculation method to check for target = total/2
+     * The bottom up appraoch uses the subset sum calculation method to check for target = total/2
      */
     private static boolean equalSumPartitionBU(int[] arr) {
         

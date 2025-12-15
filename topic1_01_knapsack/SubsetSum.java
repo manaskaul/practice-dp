@@ -99,7 +99,7 @@ public class SubsetSum {
         for(int j=0; j<t+1; j++) {
             dp_2[0][j] = false;
         }
-        // first column is set with true as it's always possible to get 0 sub by choosing no elements
+        // first column is set with true as it's always possible to get 0 sum by choosing no elements
         // element at dp[0][0] is overriden here
         // so order of initlizing the row & col matters
         for(int i=0; i<n+1; i++) {
