@@ -2,12 +2,12 @@
 
 /**
  * 0. Martix Chain Multiplication --------------------------------- MatrixChainMultiplication
- * 1. Print Martix Chain Multiplication ---------------------------
+ * 1. Palindrome Partitioning ------------------------------------- PalindromePartitioning
+ * 2. Print Martix Chain Multiplication ---------------------------
  * 3. Evaluate Expression to True / Boolean Parenthesization ------ 
  * 4. Min/Max value of an expression ------------------------------
- * 5. Palindrome Partitioning -------------------------------------
- * 6. Scramble String ---------------------------------------------
- * 7. Egg Dropping Problem ----------------------------------------
+ * 5. Scramble String ---------------------------------------------
+ * 6. Egg Dropping Problem ----------------------------------------
  */
 
 /**
