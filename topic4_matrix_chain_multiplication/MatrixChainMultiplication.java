@@ -3,8 +3,8 @@
 /**
  * 0. Martix Chain Multiplication --------------------------------- MatrixChainMultiplication
  * 1. Palindrome Partitioning ------------------------------------- PalindromePartitioning
- * 2. Print Martix Chain Multiplication ---------------------------
- * 3. Evaluate Expression to True / Boolean Parenthesization ------ 
+ * 2. Evaluate Expression to True / Boolean Parenthesization ------ BooleanParenthesization
+ * 3. Print Martix Chain Multiplication ---------------------------
  * 4. Min/Max value of an expression ------------------------------
  * 5. Scramble String ---------------------------------------------
  * 6. Egg Dropping Problem ----------------------------------------
@@ -37,6 +37,25 @@
  * 
  * and then compare this with the minCost and return
  * 
+ */
+
+/**
+ * 🧩 Universal interval-DP checklist (use this in interviews)
+ * When you see an interval DP problem:
+ * 
+ * What does dp[i][j] represent?
+ * (Answer must be a full result, not partial info.)
+ * 
+ * What is the operation at k?
+ * (Last operation inside the interval.)
+ * 
+ * What information must flow upward?
+ * (Counts? cost? min/max?)
+ * 
+ * Is one value enough?
+ * (If not, use pairs / structs.)
+ * 
+ * Does memoization fully cover overlapping subproblems?
  */
 public class MatrixChainMultiplication {
     public static void main(String[] args) {
