@@ -4,7 +4,7 @@
  * 0. Martix Chain Multiplication --------------------------------- MatrixChainMultiplication
  * 1. Palindrome Partitioning ------------------------------------- PalindromePartitioning
  * 2. Evaluate Expression to True / Boolean Parenthesization ------ BooleanParenthesization
- * 3. Scramble String ---------------------------------------------
+ * 3. Scramble String --------------------------------------------- ScrambleString
  * 4. Egg Dropping Problem ----------------------------------------
  * 5. Min/Max value of an expression ------------------------------
  * 6. Print Martix Chain Multiplication ---------------------------
