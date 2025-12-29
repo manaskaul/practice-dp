@@ -1,4 +1,4 @@
-// package topic2_unbounded_knapsack;
+package topic2_unbounded_knapsack;
 
 /**
  * Given some array of coins representing the denomination and a sum

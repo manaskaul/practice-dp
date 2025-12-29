@@ -1,4 +1,4 @@
-// package topic4_matrix_chain_multiplication;
+package topic4_matrix_chain_multiplication;
 
 public class PalindromePartitioning {
     public static void main(String[] args) {

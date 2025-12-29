@@ -1,4 +1,4 @@
-// package topic4_matrix_chain_multiplication;
+package topic4_matrix_chain_multiplication;
 
 /**
  * 0. Martix Chain Multiplication --------------------------------- MatrixChainMultiplication

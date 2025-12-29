@@ -1,4 +1,4 @@
-// package topic4_matrix_chain_multiplication;
+package topic4_matrix_chain_multiplication;
 
 /**
  * The core of this problem is the minimum number of attempts that it would take

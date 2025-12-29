@@ -1,4 +1,4 @@
-// package topic2_unbounded_knapsack;
+package topic2_unbounded_knapsack;
 
 /*
  * Unbounded Knapsack : Unlinke the 0-1 Knapsack, an item can be chosen/picked multiple times

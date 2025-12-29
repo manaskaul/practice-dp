@@ -1,4 +1,4 @@
-// package topic4_matrix_chain_multiplication;
+package topic4_matrix_chain_multiplication;
 
 import java.util.HashMap;
 import java.util.Map;

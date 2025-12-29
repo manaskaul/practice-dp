@@ -1,4 +1,4 @@
-// package topic3_longest_common_subsequence;
+package topic3_longest_common_subsequence;
 
 /**
  * This follows the Length of Shortest Common Supersequence

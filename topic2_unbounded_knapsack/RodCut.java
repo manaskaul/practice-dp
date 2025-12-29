@@ -1,4 +1,4 @@
-// package topic2_unbounded_knapsack;
+package topic2_unbounded_knapsack;
 
 public class RodCut {
     public static void main(String[] args) {

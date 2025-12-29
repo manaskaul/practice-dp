@@ -1,4 +1,4 @@
-// package topic3_longest_common_subsequence;
+package topic3_longest_common_subsequence;
 
 /**
  * Given two strings X and Y

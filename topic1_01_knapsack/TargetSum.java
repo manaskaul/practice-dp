@@ -1,4 +1,4 @@
-// package topic1_01_knapsack;
+package topic1_01_knapsack;
 
 /*
  * Given the array, we need to assign +ve/-ve signs to the elements

@@ -1,4 +1,4 @@
-// package topic3_longest_common_subsequence;
+package topic3_longest_common_subsequence;
 
 /**
  * Similar to the Min Deletions Needed problem

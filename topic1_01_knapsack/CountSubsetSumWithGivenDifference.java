@@ -1,4 +1,4 @@
-// package topic1_01_knapsack;
+package topic1_01_knapsack;
 
 public class CountSubsetSumWithGivenDifference {
     public static void main(String[] args) {

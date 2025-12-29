@@ -1,4 +1,4 @@
-// package topic2_unbounded_knapsack;
+package topic2_unbounded_knapsack;
 
 /**
  * Need to find the minimum number of coins that need to be picked in order to total sum

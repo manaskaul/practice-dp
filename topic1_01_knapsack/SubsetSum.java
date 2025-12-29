@@ -1,4 +1,4 @@
-// package topic1_01_knapsack;
+package topic1_01_knapsack;
 
 // TC : O(N * T)
 // TC : O(N * T)

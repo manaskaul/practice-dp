@@ -1,4 +1,4 @@
-// package topic1_01_knapsack;
+package topic1_01_knapsack;
 
 /*
  * We need to minimize the difference between sum of subset partition of array
