@@ -8,7 +8,7 @@
  * 3. Coin Change II : Min no of coins that can be selected to get sum
  * 4. Minimum Ribbon Cut
  */
-public class Knapsack {
+public class UnboundedKnapsack {
     public static void main(String[] args) {
         // Generic Tabulation Solution
         int N = 2, W = 2;
